@@ -1,0 +1,11 @@
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\bin\Debug\net5.0\CLassLibary.deps.json
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\bin\Debug\net5.0\CLassLibary.dll
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\bin\Debug\net5.0\ref\CLassLibary.dll
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\bin\Debug\net5.0\CLassLibary.pdb
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.AssemblyInfoInputs.cache
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.AssemblyInfo.cs
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.dll
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\ref\CLassLibary.dll
+C:\Users\tobia\OneDrive\Skrivebord\CLass Libary\CLass Libary\obj\Debug\net5.0\CLassLibary.pdb
